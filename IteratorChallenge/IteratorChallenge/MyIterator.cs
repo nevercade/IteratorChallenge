@@ -25,6 +25,7 @@ namespace IteratorChallenge {
             this.multiple = multiple;
             this.limit = limit;
 
+            nums.Clear();
             for(int i = 1; i <= limit; i++) {
                 if(i % multiple == 0) {
                     nums.Add(i);
