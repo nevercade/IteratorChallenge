@@ -23,7 +23,7 @@ namespace IteratorChallenge {
             iterator2.print(); //Using the print function that I've set up in the iterator. 
 
             IEnumerable enumerator = iterator3.getIterator();  //Now I'm pulling the numbers iterator and excecuting code outside of the MyIterator object. This offers additional flexibility
-            Console.WriteLine("--Now printing directly from inumeration instead of the print list.");
+            Console.WriteLine("--Now printing directly from inumeration.");
             foreach(int number in enumerator) { 
                  Console.WriteLine(number); /*I've got it set up to print the numbers which is idential to the print function, 
                                             * but you could do anything here using the iterator */
