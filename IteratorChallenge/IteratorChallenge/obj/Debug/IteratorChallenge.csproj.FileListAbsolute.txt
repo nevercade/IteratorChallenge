@@ -1,0 +1,7 @@
+C:\Users\matth\Documents\GitHub\IteratorChallenge\IteratorChallenge\IteratorChallenge\obj\Debug\IteratorChallenge.csprojAssemblyReference.cache
+C:\Users\matth\Documents\GitHub\IteratorChallenge\IteratorChallenge\IteratorChallenge\obj\Debug\IteratorChallenge.csproj.CoreCompileInputs.cache
+C:\Users\matth\Documents\GitHub\IteratorChallenge\IteratorChallenge\IteratorChallenge\bin\Debug\IteratorChallenge.exe.config
+C:\Users\matth\Documents\GitHub\IteratorChallenge\IteratorChallenge\IteratorChallenge\bin\Debug\IteratorChallenge.exe
+C:\Users\matth\Documents\GitHub\IteratorChallenge\IteratorChallenge\IteratorChallenge\bin\Debug\IteratorChallenge.pdb
+C:\Users\matth\Documents\GitHub\IteratorChallenge\IteratorChallenge\IteratorChallenge\obj\Debug\IteratorChallenge.exe
+C:\Users\matth\Documents\GitHub\IteratorChallenge\IteratorChallenge\IteratorChallenge\obj\Debug\IteratorChallenge.pdb
